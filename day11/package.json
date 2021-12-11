@@ -1,0 +1,19 @@
+{
+  "name": "day11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "aoc": "./node_modules/ts-node/dist/bin.js index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  }
+}
